@@ -21,7 +21,7 @@ redirect_from:
 ## About me
 
 I'm an student in the
-[Collegiate School of Medicine and Bioscience](https://www.slps.org/collegiate)’s
+[Collegiate School of Medicine and Bioscience](https://www.slps.org/collegiate)
 I am affiliated with the Washington University College Prepatory Program - planning to
 attend there later in life.
 
