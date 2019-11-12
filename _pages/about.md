@@ -24,9 +24,3 @@ I'm an student in the
 [Collegiate School of Medicine and Bioscience](https://www.slps.org/collegiate)
 I am affiliated with the Washington University College Prepatory Program - planning to
 attend there later in life.
-
-## Some recent work
-
-{% for post in site.recent %}
-  {% include archive-recent.html %}
-{% endfor %}
